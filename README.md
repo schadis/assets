@@ -1,4 +1,4 @@
-assets
+Asset-Repo
 
 Öffentliches Asset-Repo für Docker-Icons und UI-Bilder.
 
