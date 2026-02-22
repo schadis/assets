@@ -1,4 +1,4 @@
-# coini-assets
+assets
 
 Öffentliches Asset-Repo für Docker-Icons und UI-Bilder.
 
